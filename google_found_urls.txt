@@ -1,0 +1,23 @@
+Nifty 200 Momentum 30 : https://www.niftyindices.com/Factsheet/Factsheet_Nifty200_Momentum30.pdf
+Nifty Microcap 250 : https://niftyindices.com/Factsheet/Factsheet_Nifty_Microcap_250_Index.pdf
+Nifty 500 Multifactor MQLv 50 : https://niftyindices.com/Factsheet/Factsheet_nifty500MultifactorMQVLv50.pdf
+Nifty Alpha Low Volatility 30 : https://niftyindices.com/Factsheet/Factsheet_NIFTY_Alpha_Low-Volatility_30.pdf
+Nifty Alpha Quality Value Low Volatility 30 : https://niftyindices.com/Factsheet/Factsheet_NIFTY_Alpha_Quality_Value_Low-Volatility_30.pdf
+Nifty Alpha Quality Low Volatility 30 : https://www.niftyindices.com/Factsheet/Factsheet_NIFTY_Alpha_Quality_Low-Volatility_30.pdf
+Nifty Mid small cap 400 : https://niftyindices.com/Factsheet/ind_Nifty_MidSmallcap_400.pdf
+Nifty Midcap 100 : https://www.niftyindices.com/Factsheet//ind_niftymidcap100.pdf
+Nifty Midcap 150 Quality 50 : https://www.niftyindices.com/Factsheet/Factsheet_NIFTYMidcap150_Quality50.pdf
+Nifty 500 Flexicap Quality 30 : https://niftyindices.com/Factsheet/Factsheet_Nifty500_Flexicap_Quality_30.pdf
+Nifty Largemidcap 250 : https://niftyindices.com/Factsheet/Factsheet_NIFTY_LargeMidcap_250_Index.pdf
+Nifty Low Volatility 150 : https://niftyindices.com/Factsheet/Factsheet_nifty_Low_Volatility50.pdf
+Nifty Midcap 50 : https://niftyindices.com/Factsheet/ind_nifty_midcap50.pdf
+Nifty 200 Quality 30 : https://niftyindices.com/Factsheet/Factsheet_NIFTY200_Quality30.pdf
+Nifty 100 Low Volatilty 30 : https://www.niftyindices.com/Factsheet/Nifty100_LowVolatility30.pdf
+Nifty Next 50 : https://niftyindices.com/Factsheet/ind_next50.pdf
+Nifty Quality Low Volatility 30 : https://niftyindices.com/Factsheet/Factsheet_NIFTY_Quality_Low-Volatility_30.pdf
+Nifty Healthcare : https://niftyindices.com/Factsheet/Factsheet_Nifty_Healthcare_Index.pdf
+Nifty 50 Value 20 : https://niftyindices.com/Factsheet/Nifty50_Value20.pdf
+Nifty 100 Quality 30 : https://niftyindices.com/Factsheet/Nifty100_Quality30.pdf
+Nifty 50 : https://www.niftyindices.com/Factsheet/ind_nifty50.pdf
+Nifty Smallcap 100 : https://niftyindices.com/Factsheet/ind_niftysmallcap100.pdf
+Nifty 100 Alpha 30 : https://niftyindices.com/Factsheet/Factsheet_Nifty100_Alpha30.pdf

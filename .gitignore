@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+
+# Temporary and generated files
+# Note: working.txt and error.txt are tracked as empty placeholder files
+# Actual log content will be appended by scripts but won't be committed
+factsheet_urls.txt
+*.tmp
+*.log
+
+# PDF files (can be large, regenerate as needed)
+Factsheets/
+Factsheets-Final/
+corrupt/
+
+# Output CSV files (optional - uncomment if you don't want to commit these)
+# master/
+
+# Environment variables
+.env
+.env.local
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
