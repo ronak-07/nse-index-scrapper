@@ -426,7 +426,7 @@ def main():
     """
     BASE_DIR = Path(__file__).parent
     FACTSHEETS_DIR = BASE_DIR / "Factsheets"
-    CSV_PATH = BASE_DIR / "master" / "Sector-Table 1.csv"
+    CSV_PATH = BASE_DIR / "parsed_data" / "Sector-Table 1.csv"
     
     # Process all factsheets
     process_sectors_from_factsheets(FACTSHEETS_DIR, CSV_PATH)

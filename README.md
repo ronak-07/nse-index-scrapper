@@ -27,7 +27,7 @@ nse_scrapper/
 ├── find_corrupt_pdf.py           # Utility to identify and move corrupted PDFs
 ├── indices.txt                   # Input file with index names
 ├── requirements.txt              # Python dependencies
-├── master/                       # Output directory for CSV files
+├── parsed_data/                  # Output directory for CSV files
 │   ├── Indices-Table 1.csv      # Extracted index data
 │   └── Sector-Table 1.csv       # Sector representation data
 └── Factsheets/                   # Directory for downloaded PDFs (excluded from git)
@@ -132,7 +132,7 @@ This extracts:
 - Beta vs Nifty 50 (1 year, 5 years, since inception)
 - P/E, P/B, Dividend Yield
 
-**Output**: `master/Indices-Table 1.csv`
+**Output**: `parsed_data/Indices-Table 1.csv`
 
 #### Extract Sector Representation
 
@@ -147,7 +147,7 @@ This creates a matrix with:
 - Columns: Sector names
 - Values: Sector weight percentages
 
-**Output**: `master/Sector-Table 1.csv`
+**Output**: `parsed_data/Sector-Table 1.csv`
 
 ### Utility Scripts
 
@@ -177,7 +177,7 @@ Nifty 500 Multicap 50:25:25
 
 ## Output Format
 
-### `master/Indices-Table 1.csv`
+### `parsed_data/Indices-Table 1.csv`
 
 Contains one row per index with the following columns:
 - `Indices Name`: Name of the index
@@ -195,7 +195,7 @@ Contains one row per index with the following columns:
 - `Beta (Nifty 50) 1 year/5 years/Since Inception`
 - `P/E`, `P/B`, `Dividend Yield`
 
-### `master/Sector-Table 1.csv`
+### `parsed_data/Sector-Table 1.csv`
 
 Contains sector representation data:
 - `Indices`: Index name (rows)

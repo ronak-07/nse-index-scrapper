@@ -36,12 +36,11 @@ factsheet_urls.txt
 *.log
 
 # PDF files (can be large, regenerate as needed)
-Factsheets/
 Factsheets-Final/
 corrupt/
 
 # Output CSV files (optional - uncomment if you don't want to commit these)
-# master/
+# parsed_data/
 
 # Environment variables
 .env
